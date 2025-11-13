@@ -1,0 +1,13 @@
+{
+  "itemGroup.svcmuteaddon": "Example Mod Tab",
+  "block.svcmuteaddon.example_block": "Example Block",
+  "item.svcmuteaddon.example_item": "Example Item",
+
+  "svcmuteaddon.configuration.title": "SVC Mute Addon Configs",
+  "svcmuteaddon.configuration.section.svcmuteaddon.common.toml": "SVC Mute Addon Configs",
+  "svcmuteaddon.configuration.section.svcmuteaddon.common.toml.title": "SVC Mute Addon Configs",
+  "svcmuteaddon.configuration.items": "Item List",
+  "svcmuteaddon.configuration.logDirtBlock": "Log Dirt Block",
+  "svcmuteaddon.configuration.magicNumberIntroduction": "Magic Number Text",
+  "svcmuteaddon.configuration.magicNumber": "Magic Number"
+}

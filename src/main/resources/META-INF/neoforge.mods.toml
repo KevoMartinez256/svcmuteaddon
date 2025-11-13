@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="svcmuteaddon"
+version="${mod_version}"          # o hardcodea "0.1.0"
+displayName="${mod_name}"
+logoFile="assets/svcmuteaddon/icon.png"
+authors="${mod_authors}"
+description='''${mod_description}'''
+
+[[dependencies.svcmuteaddon]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.svcmuteaddon]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.svcmuteaddon]]
+    modId="voicechat"
+    type="required"
+    ordering="AFTER"
+    side="BOTH"
